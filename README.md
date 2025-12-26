@@ -70,5 +70,4 @@ The repository includes additional documentation to support understanding of the
 - Explanations of key analytical decisions
 
 ## How to open the project
-The `.pbix` file can be opened using :contentReference[oaicite:0]{index=0}.  
-For visualization purposes, the report can also be published and viewed through :contentReference[oaicite:1]{index=1}.
+Download the archive .pbix. Open it with Power BI Desktop. Explore it and its visualizations.
