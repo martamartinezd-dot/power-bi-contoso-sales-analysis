@@ -14,6 +14,22 @@ Data transformation was performed in Power Query Editor. Key steps included:
 - Creation of derived columns to apply business logic
 - Product reclassification, where items containing `laptop` in the `ProductName` field were labeled as `ordenador`
 
+## Key KPIs and their use in the report
+
+The report focuses on the following key performance indicators (KPIs):
+
+- **Total Revenue (YTD):** Measures cumulative revenue for the year and serves as the foundation for financial performance analysis.
+- **Units Sold:** Reflects sales volume and provides insights into commercial activity.
+- **Average Revenue per Store:** Evaluates the performance of individual stores on average.
+- **Top 5 Products by Revenue:** Presented as a bar chart, highlights the products generating the highest revenue, supporting strategic decision-making.
+
+The report includes additional visualizations:
+
+- Revenue trends over the years and compared to previous years  
+- Revenue by sales channel and product type  
+- Product ranking by units sold  
+- Average store performance and top 10 stores by revenue
+
 ## DAX logic
 The project uses a combination of calculated columns and measures to implement analytical logic.
 
